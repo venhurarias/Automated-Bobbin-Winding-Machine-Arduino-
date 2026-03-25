@@ -187,3 +187,8 @@ It is suitable for:
 - small-scale manufacturing  
 - automation prototypes  
 - embedded system projects  
+
+## Wiring Diagram
+![Wiring Diagram](images/wiring_diagram.png)
+
+[![Watch Demo](images/tumbnail.png)](https://www.facebook.com/share/r/1AoM4DMqW9/)
